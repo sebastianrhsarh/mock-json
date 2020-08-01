@@ -1,0 +1,1182 @@
+[
+  {
+    "id": 1,
+    "name": "Tortoise, burmese brown mountain",
+    "color": "Fuscia",
+    "food": [
+      {
+        "id": 1,
+        "name": "Cleaner - Comet",
+        "proteins": 98
+      },
+      {
+        "id": 2,
+        "name": "Bread - Corn Muffaleta Onion",
+        "proteins": 7
+      },
+      {
+        "id": 5,
+        "name": "Cauliflower",
+        "proteins": 65
+      }
+    ],
+    "raza": "Samoan",
+    "isMale": true
+  },
+  {
+    "id": 2,
+    "name": "African wild dog",
+    "color": "Crimson",
+    "food": [
+      {
+        "id": 4,
+        "name": "Bread - Focaccia Quarter",
+        "proteins": 39
+      },
+      {
+        "id": 5,
+        "name": "Cauliflower",
+        "proteins": 65
+      }
+    ],
+    "raza": "Iroquois",
+    "isMale": false
+  },
+  {
+    "id": 3,
+    "name": "Booby, blue-faced",
+    "color": "Puce",
+    "food": [
+      {
+        "id": 13,
+        "name": "Bouq All Italian - Primerba",
+        "proteins": 24
+      }
+    ],
+    "raza": "Laotian",
+    "isMale": false
+  },
+  {
+    "id": 4,
+    "name": "Turkey, wild",
+    "color": "Red",
+    "food": [
+      {
+        "id": 7,
+        "name": "Stainless Steel Cleaner Vision",
+        "proteins": 63
+      },
+      {
+        "id": 8,
+        "name": "Crawfish",
+        "proteins": 93
+      },
+      {
+        "id": 13,
+        "name": "Bouq All Italian - Primerba",
+        "proteins": 24
+      }
+    ],
+    "raza": "Melanesian",
+    "isMale": true
+  },
+  {
+    "id": 5,
+    "name": "Crow, pied",
+    "color": "Mauv",
+    "food": [
+      {
+        "id": 10,
+        "name": "Tea - Apple Green Tea",
+        "proteins": 55
+      },
+      {
+        "id": 13,
+        "name": "Bouq All Italian - Primerba",
+        "proteins": 24
+      }
+    ],
+    "raza": "American Indian and Alaska Native (AIAN)",
+    "isMale": true
+  },
+  {
+    "id": 6,
+    "name": "Cape raven",
+    "color": "Pink",
+    "food": [
+      {
+        "id": 12,
+        "name": "Fudge - Chocolate Fudge",
+        "proteins": 65
+      }
+    ],
+    "raza": "Asian",
+    "isMale": false
+  },
+  {
+    "id": 7,
+    "name": "Common brushtail possum",
+    "color": "Blue",
+    "food": [
+      {
+        "id": 13,
+        "name": "Bouq All Italian - Primerba",
+        "proteins": 24
+      }
+    ],
+    "raza": "Polynesian",
+    "isMale": true
+  },
+  {
+    "id": 8,
+    "name": "Turtle, long-necked",
+    "color": "Teal",
+    "food": [
+      {
+        "id": 14,
+        "name": "Chicken - Whole",
+        "proteins": 72
+      },
+      {
+        "id": 15,
+        "name": "Pesto - Primerba, Paste",
+        "proteins": 92
+      }
+    ],
+    "raza": "Melanesian",
+    "isMale": false
+  },
+  {
+    "id": 9,
+    "name": "Kingfisher, white-throated",
+    "color": "Crimson",
+    "food": [
+      {
+        "id": 16,
+        "name": "Squash - Guords",
+        "proteins": 60
+      },
+      {
+        "id": 26,
+        "name": "Tortillas - Flour, 10",
+        "proteins": 7
+      }
+    ],
+    "raza": "Choctaw",
+    "isMale": false
+  },
+  {
+    "id": 10,
+    "name": "Collared lemming",
+    "color": "Green",
+    "food": [
+      {
+        "id": 18,
+        "name": "Sauce - Oyster",
+        "proteins": 41
+      },
+      {
+        "id": 19,
+        "name": "Seaweed Green Sheets",
+        "proteins": 30
+      },
+      {
+        "id": 20,
+        "name": "Veal - Tenderloin, Untrimmed",
+        "proteins": 25
+      }
+    ],
+    "raza": "Yuman",
+    "isMale": false
+  },
+  {
+    "id": 11,
+    "name": "Yellow-billed stork",
+    "color": "Mauv",
+    "food": [
+      {
+        "id": 26,
+        "name": "Tortillas - Flour, 10",
+        "proteins": 7
+      }
+    ],
+    "raza": "Aleut",
+    "isMale": true
+  },
+  {
+    "id": 12,
+    "name": "Heron, gray",
+    "color": "Indigo",
+    "food": [
+      {
+        "id": 22,
+        "name": "Sauce - Fish 25 Ozf Bottle",
+        "proteins": 71
+      },
+      {
+        "id": 23,
+        "name": "Whmis Spray Bottle Graduated",
+        "proteins": 100
+      },
+      {
+        "id": 24,
+        "name": "Grouper - Fresh",
+        "proteins": 96
+      }
+    ],
+    "raza": "Guatemalan",
+    "isMale": true
+  },
+  {
+    "id": 13,
+    "name": "Bunting, crested",
+    "color": "Green",
+    "food": [
+      {
+        "id": 26,
+        "name": "Tortillas - Flour, 10",
+        "proteins": 7
+      }
+    ],
+    "raza": "Indonesian",
+    "isMale": false
+  },
+  {
+    "id": 14,
+    "name": "African black crake",
+    "color": "Teal",
+    "food": [
+      {
+        "id": 26,
+        "name": "Tortillas - Flour, 10",
+        "proteins": 7
+      },
+      {
+        "id": 33,
+        "name": "Basil - Dry, Rubbed",
+        "proteins": 33
+      },
+      {
+        "id": 28,
+        "name": "Onions - Vidalia",
+        "proteins": 97
+      }
+    ],
+    "raza": "Cuban",
+    "isMale": false
+  },
+  {
+    "id": 15,
+    "name": "Roseat flamingo",
+    "color": "Mauv",
+    "food": [
+      {
+        "id": 29,
+        "name": "Towel Dispenser",
+        "proteins": 68
+      },
+      {
+        "id": 33,
+        "name": "Basil - Dry, Rubbed",
+        "proteins": 33
+      }
+    ],
+    "raza": "Navajo",
+    "isMale": false
+  },
+  {
+    "id": 16,
+    "name": "Goldeneye, barrows",
+    "color": "Indigo",
+    "food": [
+      {
+        "id": 31,
+        "name": "Soup - Campbells - Tomato",
+        "proteins": 95
+      },
+      {
+        "id": 32,
+        "name": "Beef Cheek Fresh",
+        "proteins": 35
+      },
+      {
+        "id": 33,
+        "name": "Basil - Dry, Rubbed",
+        "proteins": 33
+      }
+    ],
+    "raza": "Ecuadorian",
+    "isMale": true
+  },
+  {
+    "id": 17,
+    "name": "Eland, common",
+    "color": "Goldenrod",
+    "food": [
+      {
+        "id": 47,
+        "name": "Brandy - Orange, Mc Guiness",
+        "proteins": 29
+      }
+    ],
+    "raza": "Colombian",
+    "isMale": true
+  },
+  {
+    "id": 18,
+    "name": "Snake (unidentified)",
+    "color": "Yellow",
+    "food": [
+      {
+        "id": 35,
+        "name": "Dried Peach",
+        "proteins": 75
+      },
+      {
+        "id": 36,
+        "name": "Sprite, Diet - 355ml",
+        "proteins": 53
+      },
+      {
+        "id": 47,
+        "name": "Brandy - Orange, Mc Guiness",
+        "proteins": 29
+      }
+    ],
+    "raza": "Micronesian",
+    "isMale": false
+  },
+  {
+    "id": 19,
+    "name": "Mocking cliffchat",
+    "color": "Turquoise",
+    "food": [
+      {
+        "id": 38,
+        "name": "Rice - Brown",
+        "proteins": 45
+      },
+      {
+        "id": 39,
+        "name": "Wine - Placido Pinot Grigo",
+        "proteins": 81
+      },
+      {
+        "id": 47,
+        "name": "Brandy - Orange, Mc Guiness",
+        "proteins": 29
+      }
+    ],
+    "raza": "Ecuadorian",
+    "isMale": false
+  },
+  {
+    "id": 20,
+    "name": "Cormorant (unidentified)",
+    "color": "Indigo",
+    "food": [
+      {
+        "id": 41,
+        "name": "Pie Shell - 5",
+        "proteins": 68
+      },
+      {
+        "id": 42,
+        "name": "Brandy - Orange, Mc Guiness",
+        "proteins": 48
+      },
+      {
+        "id": 47,
+        "name": "Brandy - Orange, Mc Guiness",
+        "proteins": 29
+      }
+    ],
+    "raza": "Filipino",
+    "isMale": false
+  },
+  {
+    "id": 21,
+    "name": "Iguana, marine",
+    "color": "Violet",
+    "food": [
+      {
+        "id": 44,
+        "name": "Beans - Turtle, Black, Dry",
+        "proteins": 29
+      },
+      {
+        "id": 47,
+        "name": "Brandy - Orange, Mc Guiness",
+        "proteins": 29
+      }
+    ],
+    "raza": "Polynesian",
+    "isMale": false
+  },
+  {
+    "id": 22,
+    "name": "Tenrec, tailless",
+    "color": "Khaki",
+    "food": [
+      {
+        "id": 46,
+        "name": "Wine - Red, Black Opal Shiraz",
+        "proteins": 26
+      },
+      {
+        "id": 47,
+        "name": "Brandy - Orange, Mc Guiness",
+        "proteins": 29
+      },
+      {
+        "id": 53,
+        "name": "Cake - Lemon Chiffon",
+        "proteins": 40
+      }
+    ],
+    "raza": "Crow",
+    "isMale": false
+  },
+  {
+    "id": 23,
+    "name": "Bahama pintail",
+    "color": "Turquoise",
+    "food": [
+      {
+        "id": 53,
+        "name": "Cake - Lemon Chiffon",
+        "proteins": 40
+      }
+    ],
+    "raza": "Puget Sound Salish",
+    "isMale": false
+  },
+  {
+    "id": 24,
+    "name": "Cobra, cape",
+    "color": "Maroon",
+    "food": [
+      {
+        "id": 50,
+        "name": "Sugar - Individual Portions",
+        "proteins": 19
+      },
+      {
+        "id": 53,
+        "name": "Cake - Lemon Chiffon",
+        "proteins": 40
+      }
+    ],
+    "raza": "Native Hawaiian",
+    "isMale": true
+  },
+  {
+    "id": 25,
+    "name": "Klipspringer",
+    "color": "Yellow",
+    "food": [
+      {
+        "id": 52,
+        "name": "The Pop Shoppe Pinapple",
+        "proteins": 29
+      },
+      {
+        "id": 53,
+        "name": "Cake - Lemon Chiffon",
+        "proteins": 40
+      }
+    ],
+    "raza": "Asian Indian",
+    "isMale": true
+  },
+  {
+    "id": 26,
+    "name": "Wagtail, african pied",
+    "color": "Aquamarine",
+    "food": [
+      {
+        "id": 54,
+        "name": "Cheese - Roquefort Pappillon",
+        "proteins": 17
+      },
+      {
+        "id": 69,
+        "name": "Pasta - Elbows, Macaroni, Dry",
+        "proteins": 26
+      }
+    ],
+    "raza": "Cherokee",
+    "isMale": true
+  },
+  {
+    "id": 27,
+    "name": "Gray rhea",
+    "color": "Crimson",
+    "food": [
+      {
+        "id": 56,
+        "name": "Pepper - Red, Finger Hot",
+        "proteins": 92
+      },
+      {
+        "id": 57,
+        "name": "Blackberries",
+        "proteins": 32
+      }
+    ],
+    "raza": "Sioux",
+    "isMale": false
+  },
+  {
+    "id": 28,
+    "name": "Brown hyena",
+    "color": "Maroon",
+    "food": [
+      {
+        "id": 58,
+        "name": "Beef - Striploin Aa",
+        "proteins": 51
+      },
+      {
+        "id": 59,
+        "name": "Ecolab - Lime - A - Way 4/4 L",
+        "proteins": 47
+      },
+      {
+        "id": 60,
+        "name": "Vegetable - Base",
+        "proteins": 98
+      }
+    ],
+    "raza": "Ecuadorian",
+    "isMale": false
+  },
+  {
+    "id": 29,
+    "name": "Common wombat",
+    "color": "Yellow",
+    "food": [
+      {
+        "id": 61,
+        "name": "Beef - Kindney, Whole",
+        "proteins": 60
+      },
+      {
+        "id": 69,
+        "name": "Pasta - Elbows, Macaroni, Dry",
+        "proteins": 26
+      },
+      {
+        "id": 63,
+        "name": "Chocolate - Pistoles, White",
+        "proteins": 85
+      }
+    ],
+    "raza": "Vietnamese",
+    "isMale": true
+  },
+  {
+    "id": 30,
+    "name": "Golden brush-tailed possum",
+    "color": "Mauv",
+    "food": [
+      {
+        "id": 64,
+        "name": "The Pop Shoppe - Cream Soda",
+        "proteins": 94
+      }
+    ],
+    "raza": "Chinese",
+    "isMale": true
+  },
+  {
+    "id": 31,
+    "name": "Paddy heron (unidentified)",
+    "color": "Pink",
+    "food": [
+      {
+        "id": 69,
+        "name": "Pasta - Elbows, Macaroni, Dry",
+        "proteins": 26
+      }
+    ],
+    "raza": "Blackfeet",
+    "isMale": true
+  },
+  {
+    "id": 32,
+    "name": "Greylag goose",
+    "color": "Maroon",
+    "food": [
+      {
+        "id": 66,
+        "name": "Rappini - Andy Boy",
+        "proteins": 36
+      },
+      {
+        "id": 67,
+        "name": "Nantucket - Pomegranate Pear",
+        "proteins": 74
+      },
+      {
+        "id": 69,
+        "name": "Pasta - Elbows, Macaroni, Dry",
+        "proteins": 26
+      }
+    ],
+    "raza": "Pima",
+    "isMale": false
+  },
+  {
+    "id": 33,
+    "name": "Rhesus macaque",
+    "color": "Crimson",
+    "food": [
+      {
+        "id": 69,
+        "name": "Pasta - Elbows, Macaroni, Dry",
+        "proteins": 26
+      }
+    ],
+    "raza": "Yuman",
+    "isMale": true
+  },
+  {
+    "id": 34,
+    "name": "Asian openbill",
+    "color": "Purple",
+    "food": [
+      {
+        "id": 70,
+        "name": "Wine - Sherry Dry Sack, William",
+        "proteins": 57
+      },
+      {
+        "id": 71,
+        "name": "Bread - Pumpernickel",
+        "proteins": 93
+      },
+      {
+        "id": 86,
+        "name": "Beef - Eye Of Round",
+        "proteins": 3
+      }
+    ],
+    "raza": "Yuman",
+    "isMale": false
+  },
+  {
+    "id": 35,
+    "name": "Heron, striated",
+    "color": "Red",
+    "food": [
+      {
+        "id": 73,
+        "name": "Tequila Rose Cream Liquor",
+        "proteins": 85
+      },
+      {
+        "id": 74,
+        "name": "Lemonade - Natural, 591 Ml",
+        "proteins": 49
+      },
+      {
+        "id": 75,
+        "name": "Lamb - Shoulder, Boneless",
+        "proteins": 17
+      }
+    ],
+    "raza": "Shoshone",
+    "isMale": true
+  },
+  {
+    "id": 36,
+    "name": "Legaan, Monitor (unidentified)",
+    "color": "Turquoise",
+    "food": [
+      {
+        "id": 76,
+        "name": "Tequila Rose Cream Liquor",
+        "proteins": 89
+      },
+      {
+        "id": 86,
+        "name": "Beef - Eye Of Round",
+        "proteins": 3
+      }
+    ],
+    "raza": "South American",
+    "isMale": true
+  },
+  {
+    "id": 37,
+    "name": "Olive baboon",
+    "color": "Fuscia",
+    "food": [
+      {
+        "id": 78,
+        "name": "Contreau",
+        "proteins": 43
+      },
+      {
+        "id": 79,
+        "name": "Cheese - Parmesan Grated",
+        "proteins": 8
+      },
+      {
+        "id": 80,
+        "name": "Gelatine Leaves - Envelopes",
+        "proteins": 91
+      }
+    ],
+    "raza": "Cree",
+    "isMale": true
+  },
+  {
+    "id": 38,
+    "name": "Silver-backed jackal",
+    "color": "Yellow",
+    "food": [
+      {
+        "id": 81,
+        "name": "Kellogs Raisan Bran Bars",
+        "proteins": 3
+      },
+      {
+        "id": 82,
+        "name": "Wine - Penfolds Koonuga Hill",
+        "proteins": 4
+      }
+    ],
+    "raza": "Sri Lankan",
+    "isMale": false
+  },
+  {
+    "id": 39,
+    "name": "Cockatoo, roseate",
+    "color": "Mauv",
+    "food": [
+      {
+        "id": 86,
+        "name": "Beef - Eye Of Round",
+        "proteins": 3
+      }
+    ],
+    "raza": "Black or African American",
+    "isMale": false
+  },
+  {
+    "id": 40,
+    "name": "Northern elephant seal",
+    "color": "Khaki",
+    "food": [
+      {
+        "id": 84,
+        "name": "Bulgar",
+        "proteins": 91
+      }
+    ],
+    "raza": "Melanesian",
+    "isMale": true
+  },
+  {
+    "id": 41,
+    "name": "Sifaka, verreaux's",
+    "color": "Fuscia",
+    "food": [
+      {
+        "id": 86,
+        "name": "Beef - Eye Of Round",
+        "proteins": 3
+      }
+    ],
+    "raza": "Bangladeshi",
+    "isMale": true
+  },
+  {
+    "id": 42,
+    "name": "Common genet",
+    "color": "Indigo",
+    "food": [
+      {
+        "id": 86,
+        "name": "Beef - Eye Of Round",
+        "proteins": 3
+      }
+    ],
+    "raza": "Nicaraguan",
+    "isMale": true
+  },
+  {
+    "id": 43,
+    "name": "Rattlesnake, dusky",
+    "color": "Khaki",
+    "food": [
+      {
+        "id": 87,
+        "name": "Chips - Miss Vickies",
+        "proteins": 100
+      },
+      {
+        "id": 88,
+        "name": "Mints - Striped Red",
+        "proteins": 50
+      }
+    ],
+    "raza": "Colombian",
+    "isMale": false
+  },
+  {
+    "id": 44,
+    "name": "Southern sea lion",
+    "color": "Green",
+    "food": [
+      {
+        "id": 89,
+        "name": "Potatoes - Mini Red",
+        "proteins": 99
+      },
+      {
+        "id": 90,
+        "name": "Sobe - Tropical Energy",
+        "proteins": 3
+      },
+      {
+        "id": 91,
+        "name": "Salt And Pepper Mix - White",
+        "proteins": 31
+      }
+    ],
+    "raza": "Blackfeet",
+    "isMale": true
+  },
+  {
+    "id": 45,
+    "name": "Dragon, western bearded",
+    "color": "Khaki",
+    "food": [
+      {
+        "id": 92,
+        "name": "Beef Wellington",
+        "proteins": 45
+      }
+    ],
+    "raza": "Puget Sound Salish",
+    "isMale": true
+  },
+  {
+    "id": 46,
+    "name": "Hedgehog, south african",
+    "color": "Turquoise",
+    "food": [
+      {
+        "id": 93,
+        "name": "Flower - Leather Leaf Fern",
+        "proteins": 4
+      },
+      {
+        "id": 94,
+        "name": "Cheese - Havarti, Roasted Garlic",
+        "proteins": 85
+      }
+    ],
+    "raza": "Fijian",
+    "isMale": true
+  },
+  {
+    "id": 47,
+    "name": "Squirrel, arctic ground",
+    "color": "Fuscia",
+    "food": [
+      {
+        "id": 95,
+        "name": "Ezy Change Mophandle",
+        "proteins": 99
+      }
+    ],
+    "raza": "Kiowa",
+    "isMale": false
+  },
+  {
+    "id": 48,
+    "name": "Whale, long-finned pilot",
+    "color": "Fuscia",
+    "food": [
+      {
+        "id": 96,
+        "name": "Beer - Sleemans Honey Brown",
+        "proteins": 72
+      },
+      {
+        "id": 97,
+        "name": "Icecream - Dstk Super Cone",
+        "proteins": 98
+      },
+      {
+        "id": 98,
+        "name": "Wine - Magnotta, Merlot Sr Vqa",
+        "proteins": 36
+      }
+    ],
+    "raza": "Asian",
+    "isMale": true
+  },
+  {
+    "id": 49,
+    "name": "Woodpecker, downy",
+    "color": "Crimson",
+    "food": [
+      {
+        "id": 99,
+        "name": "Beef - Bresaola",
+        "proteins": 43
+      },
+      {
+        "id": 100,
+        "name": "Clams - Bay",
+        "proteins": 90
+      }
+    ],
+    "raza": "Delaware",
+    "isMale": true
+  },
+  {
+    "id": 50,
+    "name": "Kangaroo, western grey",
+    "color": "Puce",
+    "food": [
+      {
+        "id": 101,
+        "name": "Island Oasis - Strawberry",
+        "proteins": 67
+      },
+      {
+        "id": 102,
+        "name": "Wine - Acient Coast Caberne",
+        "proteins": 22
+      },
+      {
+        "id": 103,
+        "name": "Mushroom - Chanterelle Frozen",
+        "proteins": 50
+      }
+    ],
+    "raza": "Cree",
+    "isMale": false
+  },
+  {
+    "id": 51,
+    "name": "Porcupine, african",
+    "color": "Khaki",
+    "food": [
+      {
+        "id": 104,
+        "name": "Wine - Chianti Classica Docg",
+        "proteins": 55
+      },
+      {
+        "id": 105,
+        "name": "Fruit Mix - Light",
+        "proteins": 17
+      },
+      {
+        "id": 106,
+        "name": "Calypso - Strawberry Lemonade",
+        "proteins": 91
+      }
+    ],
+    "raza": "Comanche",
+    "isMale": false
+  },
+  {
+    "id": 52,
+    "name": "Tawny frogmouth",
+    "color": "Blue",
+    "food": [
+      {
+        "id": 107,
+        "name": "Transfer Sheets",
+        "proteins": 71
+      },
+      {
+        "id": 108,
+        "name": "Sauce - Vodka Blush",
+        "proteins": 40
+      },
+      {
+        "id": 109,
+        "name": "Pasta - Lasagne, Fresh",
+        "proteins": 51
+      }
+    ],
+    "raza": "Apache",
+    "isMale": false
+  },
+  {
+    "id": 53,
+    "name": "Smith's bush squirrel",
+    "color": "Khaki",
+    "food": [
+      {
+        "id": 110,
+        "name": "Nut - Macadamia",
+        "proteins": 77
+      }
+    ],
+    "raza": "Iroquois",
+    "isMale": true
+  },
+  {
+    "id": 54,
+    "name": "Vervet monkey",
+    "color": "Puce",
+    "food": [
+      {
+        "id": 111,
+        "name": "Parsley - Dried",
+        "proteins": 62
+      },
+      {
+        "id": 112,
+        "name": "Veal - Round, Eye Of",
+        "proteins": 84
+      }
+    ],
+    "raza": "Lumbee",
+    "isMale": true
+  },
+  {
+    "id": 55,
+    "name": "Steenbuck",
+    "color": "Orange",
+    "food": [
+      {
+        "id": 113,
+        "name": "Grapes - Black",
+        "proteins": 27
+      }
+    ],
+    "raza": "Costa Rican",
+    "isMale": true
+  },
+  {
+    "id": 56,
+    "name": "Brown capuchin",
+    "color": "Mauv",
+    "food": [
+      {
+        "id": 113,
+        "name": "Grapes - Black",
+        "proteins": 27
+      },
+      {
+        "id": 115,
+        "name": "Wasabi Powder",
+        "proteins": 94
+      },
+      {
+        "id": 1,
+        "name": "Cleaner - Comet",
+        "proteins": 98
+      }
+    ],
+    "raza": "Sri Lankan",
+    "isMale": false
+  },
+  {
+    "id": 57,
+    "name": "Otter, small-clawed",
+    "color": "Green",
+    "food": [
+      {
+        "id": 117,
+        "name": "Rice - Aborio",
+        "proteins": 53
+      },
+      {
+        "id": 118,
+        "name": "Soup - Campbells, Butternut",
+        "proteins": 74
+      },
+      {
+        "id": 119,
+        "name": "Bread - Onion Focaccia",
+        "proteins": 66
+      }
+    ],
+    "raza": "Cheyenne",
+    "isMale": true
+  },
+  {
+    "id": 58,
+    "name": "Common goldeneye",
+    "color": "Red",
+    "food": [
+      {
+        "id": 120,
+        "name": "Tarts Assorted",
+        "proteins": 20
+      },
+      {
+        "id": 1,
+        "name": "Cleaner - Comet",
+        "proteins": 98
+      },
+      {
+        "id": 122,
+        "name": "Salt And Pepper Mix - Black",
+        "proteins": 36
+      }
+    ],
+    "raza": "Fijian",
+    "isMale": true
+  },
+  {
+    "id": 59,
+    "name": "Bohor reedbuck",
+    "color": "Blue",
+    "food": [
+      {
+        "id": 123,
+        "name": "Star Fruit",
+        "proteins": 82
+      },
+      {
+        "id": 124,
+        "name": "Wasabi Powder",
+        "proteins": 95
+      },
+      {
+        "id": 1,
+        "name": "Cleaner - Comet",
+        "proteins": 98
+      }
+    ],
+    "raza": "Central American",
+    "isMale": true
+  },
+  {
+    "id": 60,
+    "name": "Cockatoo, red-breasted",
+    "color": "Red",
+    "food": [
+      {
+        "id": 126,
+        "name": "Waffle Stix",
+        "proteins": 14
+      },
+      {
+        "id": 127,
+        "name": "Mint - Fresh",
+        "proteins": 81
+      },
+      {
+        "id": 1,
+        "name": "Cleaner - Comet",
+        "proteins": 98
+      }
+    ],
+    "raza": "Malaysian",
+    "isMale": true
+  }
+]

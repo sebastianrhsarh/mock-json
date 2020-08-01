@@ -1,0 +1,361 @@
+[{
+  "id": 1,
+  "name": "Worm snake (unidentified)",
+  "color": "Teal",
+  "isFurry": true,
+  "meows": false
+}, {
+  "id": 2,
+  "name": "Common wallaroo",
+  "color": "Indigo",
+  "isFurry": true,
+  "meows": true
+}, {
+  "id": 3,
+  "name": "Stork, marabou",
+  "color": "Goldenrod",
+  "isFurry": true,
+  "meows": false
+}, {
+  "id": 4,
+  "name": "Indian peacock",
+  "color": "Yellow",
+  "isFurry": true,
+  "meows": false
+}, {
+  "id": 5,
+  "name": "Macaw, red and blue",
+  "color": "Crimson",
+  "isFurry": true,
+  "meows": false
+}, {
+  "id": 6,
+  "name": "Blacksmith plover",
+  "color": "Green",
+  "isFurry": false,
+  "meows": false
+}, {
+  "id": 7,
+  "name": "Common seal",
+  "color": "Violet",
+  "isFurry": false,
+  "meows": true
+}, {
+  "id": 8,
+  "name": "Bear, american black",
+  "color": "Pink",
+  "isFurry": true,
+  "meows": false
+}, {
+  "id": 9,
+  "name": "Lory, rainbow",
+  "color": "Green",
+  "isFurry": true,
+  "meows": false
+}, {
+  "id": 10,
+  "name": "Possum, western pygmy",
+  "color": "Aquamarine",
+  "isFurry": true,
+  "meows": true
+}, {
+  "id": 11,
+  "name": "Turtle, eastern box",
+  "color": "Puce",
+  "isFurry": true,
+  "meows": true
+}, {
+  "id": 12,
+  "name": "Capuchin, white-fronted",
+  "color": "Mauv",
+  "isFurry": true,
+  "meows": true
+}, {
+  "id": 13,
+  "name": "Yellow-crowned night heron",
+  "color": "Red",
+  "isFurry": false,
+  "meows": false
+}, {
+  "id": 14,
+  "name": "Steenbuck",
+  "color": "Aquamarine",
+  "isFurry": true,
+  "meows": false
+}, {
+  "id": 15,
+  "name": "Sportive lemur",
+  "color": "Blue",
+  "isFurry": false,
+  "meows": false
+}, {
+  "id": 16,
+  "name": "Hottentot teal",
+  "color": "Maroon",
+  "isFurry": true,
+  "meows": false
+}, {
+  "id": 17,
+  "name": "Ringtail, common",
+  "color": "Pink",
+  "isFurry": false,
+  "meows": false
+}, {
+  "id": 18,
+  "name": "Gray langur",
+  "color": "Aquamarine",
+  "isFurry": false,
+  "meows": false
+}, {
+  "id": 19,
+  "name": "Crake, african black",
+  "color": "Mauv",
+  "isFurry": false,
+  "meows": true
+}, {
+  "id": 20,
+  "name": "Asiatic jackal",
+  "color": "Yellow",
+  "isFurry": true,
+  "meows": false
+}, {
+  "id": 21,
+  "name": "Goanna lizard",
+  "color": "Pink",
+  "isFurry": true,
+  "meows": false
+}, {
+  "id": 22,
+  "name": "Macaque, rhesus",
+  "color": "Teal",
+  "isFurry": true,
+  "meows": false
+}, {
+  "id": 23,
+  "name": "Screamer, southern",
+  "color": "Indigo",
+  "isFurry": true,
+  "meows": false
+}, {
+  "id": 24,
+  "name": "Hare, arctic",
+  "color": "Blue",
+  "isFurry": true,
+  "meows": true
+}, {
+  "id": 25,
+  "name": "Prairie falcon",
+  "color": "Mauv",
+  "isFurry": true,
+  "meows": true
+}, {
+  "id": 26,
+  "name": "Roadrunner, greater",
+  "color": "Purple",
+  "isFurry": false,
+  "meows": true
+}, {
+  "id": 27,
+  "name": "Cape raven",
+  "color": "Mauv",
+  "isFurry": false,
+  "meows": true
+}, {
+  "id": 28,
+  "name": "Thrasher, curve-billed",
+  "color": "Crimson",
+  "isFurry": true,
+  "meows": false
+}, {
+  "id": 29,
+  "name": "Striped dolphin",
+  "color": "Goldenrod",
+  "isFurry": false,
+  "meows": true
+}, {
+  "id": 30,
+  "name": "Fowl, helmeted guinea",
+  "color": "Teal",
+  "isFurry": false,
+  "meows": true
+}, {
+  "id": 31,
+  "name": "Macaw, red and blue",
+  "color": "Aquamarine",
+  "isFurry": true,
+  "meows": true
+}, {
+  "id": 32,
+  "name": "Gerbil (unidentified)",
+  "color": "Orange",
+  "isFurry": false,
+  "meows": true
+}, {
+  "id": 33,
+  "name": "Echidna, short-beaked",
+  "color": "Mauv",
+  "isFurry": true,
+  "meows": false
+}, {
+  "id": 34,
+  "name": "Owl, madagascar hawk",
+  "color": "Pink",
+  "isFurry": true,
+  "meows": false
+}, {
+  "id": 35,
+  "name": "Snake, carpet",
+  "color": "Crimson",
+  "isFurry": true,
+  "meows": false
+}, {
+  "id": 36,
+  "name": "Rock dove",
+  "color": "Puce",
+  "isFurry": true,
+  "meows": true
+}, {
+  "id": 37,
+  "name": "Lizard (unidentified)",
+  "color": "Red",
+  "isFurry": true,
+  "meows": false
+}, {
+  "id": 38,
+  "name": "Wallaby, tammar",
+  "color": "Fuscia",
+  "isFurry": true,
+  "meows": true
+}, {
+  "id": 39,
+  "name": "Hawk, ferruginous",
+  "color": "Purple",
+  "isFurry": true,
+  "meows": false
+}, {
+  "id": 40,
+  "name": "Gecko, barking",
+  "color": "Purple",
+  "isFurry": true,
+  "meows": true
+}, {
+  "id": 41,
+  "name": "Adouri (unidentified)",
+  "color": "Fuscia",
+  "isFurry": false,
+  "meows": false
+}, {
+  "id": 42,
+  "name": "Swan, black",
+  "color": "Aquamarine",
+  "isFurry": true,
+  "meows": true
+}, {
+  "id": 43,
+  "name": "Cardinal, red-capped",
+  "color": "Mauv",
+  "isFurry": false,
+  "meows": false
+}, {
+  "id": 44,
+  "name": "River wallaby",
+  "color": "Orange",
+  "isFurry": true,
+  "meows": false
+}, {
+  "id": 45,
+  "name": "Bleeding heart monkey",
+  "color": "Pink",
+  "isFurry": true,
+  "meows": false
+}, {
+  "id": 46,
+  "name": "Common nighthawk",
+  "color": "Fuscia",
+  "isFurry": false,
+  "meows": false
+}, {
+  "id": 47,
+  "name": "Blue-faced booby",
+  "color": "Indigo",
+  "isFurry": false,
+  "meows": true
+}, {
+  "id": 48,
+  "name": "Two-toed tree sloth",
+  "color": "Puce",
+  "isFurry": false,
+  "meows": true
+}, {
+  "id": 49,
+  "name": "Heron, gray",
+  "color": "Aquamarine",
+  "isFurry": false,
+  "meows": true
+}, {
+  "id": 50,
+  "name": "Stick insect",
+  "color": "Purple",
+  "isFurry": false,
+  "meows": false
+}, {
+  "id": 51,
+  "name": "Arctic ground squirrel",
+  "color": "Blue",
+  "isFurry": false,
+  "meows": false
+}, {
+  "id": 52,
+  "name": "Kingfisher, white-throated",
+  "color": "Teal",
+  "isFurry": false,
+  "meows": true
+}, {
+  "id": 53,
+  "name": "Wallaby, tammar",
+  "color": "Khaki",
+  "isFurry": true,
+  "meows": false
+}, {
+  "id": 54,
+  "name": "Squirrel, palm",
+  "color": "Khaki",
+  "isFurry": false,
+  "meows": true
+}, {
+  "id": 55,
+  "name": "Water moccasin",
+  "color": "Mauv",
+  "isFurry": true,
+  "meows": false
+}, {
+  "id": 56,
+  "name": "Bird (unidentified)",
+  "color": "Mauv",
+  "isFurry": false,
+  "meows": true
+}, {
+  "id": 57,
+  "name": "Golden-mantled ground squirrel",
+  "color": "Red",
+  "isFurry": false,
+  "meows": false
+}, {
+  "id": 58,
+  "name": "Gull, lava",
+  "color": "Yellow",
+  "isFurry": true,
+  "meows": true
+}, {
+  "id": 59,
+  "name": "Ferret, black-footed",
+  "color": "Green",
+  "isFurry": true,
+  "meows": false
+}, {
+  "id": 60,
+  "name": "Devil, tasmanian",
+  "color": "Goldenrod",
+  "isFurry": true,
+  "meows": true
+}]

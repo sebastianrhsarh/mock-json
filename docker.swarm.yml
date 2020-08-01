@@ -1,0 +1,32 @@
+version: '3.5'
+volumes:
+  db_data:
+    name: db_data
+services:
+  nginx:
+    image: nginx
+    networks:
+      - evaluacion
+    ports:
+      - 80:80
+      - 443:443
+    deploy:
+      placement:
+        constraints: [node.role==manager]
+  mariadb:
+      image: mariadb
+      volumes:
+        - db_data:/var/lib/mysql
+      environment:
+        MYSQL_ROOT_PASSWORD: shadowfax
+      ports:
+        - 3000:3306
+      networks:
+        - evaluacion
+      deploy:
+        mode: global
+        placement:
+          constraints: [node.role==worker]
+networks:
+  evaluacion:
+    external: true

@@ -1,0 +1,25 @@
+<div class="container">
+  <div class="container__button">
+    <button (click)="dogPage()">Show dogs</button>
+    <button (click)="catPage()">Show cats</button>
+    <button (click)="greenDogsPage()">Show green dogs</button>
+    <button (click)="index()">Back to home</button>
+  </div>
+  <div class="container__title">Dog Food List</div>
+  <div class="container__info">
+    <table class="table">
+      <tr class="tr">
+        <td class="td">ID</td>
+        <td class="td">NOMBRE</td>
+        <td class="td">PROTEINS</td>
+      </tr>
+    </table>
+    <table class="table" *ngFor='let food of foods'>
+      <tr class="tr">
+        <td class="td">{{ food.id }}</td>
+        <td class="td">{{ food.name }}</td>
+        <td class="td">{{ food.proteins }}</td>
+      </tr>
+    </table>
+  </div>
+</div>

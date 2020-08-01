@@ -1,0 +1,29 @@
+<div class="container">
+  <div class="container__button">
+    <button (click)="catPage()">Show cats</button>
+    <button (click)="greenDogsPage()">Show green dogs</button>
+    <button (click)="foodPage()">Show dog food</button>
+    <button (click)="index()">Back to home</button>
+  </div>
+  <div class="container__title">Dog List</div>
+  <div class="container__info">
+    <table class="table">
+      <tr class="tr">
+        <td class="td">ID</td>
+        <td class="td">NAME</td>
+        <td class="td">COLOR</td>
+        <td class="td">BREED</td>
+        <td class="td">GENDER</td>
+      </tr>
+    </table>
+    <table class="table" *ngFor='let dog of dogs'>
+      <tr class="tr">
+        <td class="td">{{ dog.id }}</td>
+        <td class="td">{{ dog.name }}</td>
+        <td class="td">{{ dog.color }}</td>
+        <td class="td">{{ dog.raza }}</td>
+        <td class="td">{{ dog.isMale ? "Male" : "Female"}}</td>
+      </tr>
+    </table>
+  </div>
+</div>
